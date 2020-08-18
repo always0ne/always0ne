@@ -12,9 +12,15 @@ My Goal is making a useful Service what users are satisfying
 
 ### 😄 What I can Do
 - SpringBoot
-- Linux Server
+- Setting Linux Server
+- Setting CI/CD(Jenkins/Github Actions)
 - Docker
 - Network Engineering
+- Project Management
+
+### My Main Language
+- C
+- Java
 
 ### Devlog
 - [Always0ne World](https://always0ne.github.io/)
