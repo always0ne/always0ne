@@ -1,6 +1,11 @@
 <h3>Hi there 👋  I'm Always0ne<img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
-<img align = "right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;link=https://always0ne.github.io/" alt="Tech Blog Badge">
-<img align = "right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp;link=mailto:si8363@soongsil.ac.kr" alt="Contact Email"></h3>
+<a href="https://always0ne.github.io">
+  <img align = "right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;" alt="Tech Blog Badge">
+</a>
+<a href="mailto:si8363@soongsil.ac.kr">  
+  <img align = "right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp" alt="Contact Email">
+</a>
+</h3>
 <div>
   I'm a student at SSU Univ. Software 3rd grade and Project is a hobby
   <p>
@@ -29,9 +34,6 @@
 
 ### To get more Information about me
 - [Introduce Page](https://always0ne.github.io/whoAmI/)
-
-### 💬 Contact me free!!
-my email addr = si8363@soongsil.ac.kr
 
 <!--
 **always0ne/always0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
