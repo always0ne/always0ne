@@ -1,10 +1,14 @@
-### Hi there 👋  I'm Always0ne
-I'm student at SSU Univ. Software 3rd grade and love to doing projects
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" /> </p> 
+<h1 align="center">Hi there 👋  I'm Always0ne</h1>
+<p>
+  <img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
+<img align = "right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;link=https://always0ne.github.io/" alt="Tech Blog Badge">
+  I'm student at SSU Univ. Software 3rd grade and love to doing projects
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="40%"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne"  width="50%"/></p>  
+<p>
+  <img align="left" margin-left="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="40%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne"  width="50%"/>
+</p>
 
 ### 🌱 I’m currently learning ...
 - Server
@@ -23,9 +27,6 @@ I'm student at SSU Univ. Software 3rd grade and love to doing projects
 ### My Main Language
 - C
 - Java
-
-### Devlog
-- [Always0ne World](https://always0ne.github.io/)
 
 ### To get more Information about me
 - [Introduce Page](https://always0ne.github.io/whoAmI/)
