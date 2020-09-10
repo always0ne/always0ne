@@ -1,8 +1,6 @@
 ### Hi there 👋  I'm Always0ne
-
-I'm student at SSU Univ. Software 3rd grade and love to doing projects  
-
-![](https://komarev.com/ghpvc/?username=always0ne)  
+I'm student at SSU Univ. Software 3rd grade and love to doing projects
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" /> </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="40%"/></p>
 
