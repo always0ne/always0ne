@@ -4,9 +4,9 @@ I'm student at SSU Univ. Software 3rd grade and love to doing projects
 
 ![](https://komarev.com/ghpvc/?username=always0ne)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="40%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne"  width="50%"/></p>  
 
 ### 🌱 I’m currently learning ...
 - Server
