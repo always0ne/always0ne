@@ -1,14 +1,13 @@
-<h1 align="center">Hi there 👋  I'm Always0ne</h1>
-<p>
-  <img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
+<h3>Hi there 👋  I'm Always0ne<img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
 <img align = "right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;link=https://always0ne.github.io/" alt="Tech Blog Badge">
-  I'm student at SSU Univ. Software 3rd grade and love to doing projects
-</p>
-
-<p>
-  <img align="left" margin-left="5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="40%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne"  width="50%"/>
-</p>
+<img align = "right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp;link=mailto:si8363@soongsil.ac.kr" alt="Contact Email"></h3>
+<div>
+  I'm a student at SSU Univ. Software 3rd grade and Project is a hobby
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="44%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne"  width="54%"/>
+  </p>
+</div>
 
 ### 🌱 I’m currently learning ...
 - Server
