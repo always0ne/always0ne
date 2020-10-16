@@ -8,7 +8,7 @@
   </a>
 </h1>
   <p>
-    <img src="https://github-readme-stats-git-master.always0ne.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html" alt="always0ne" width="41%" />
+    <img src="https://github-readme-stats.always0ne.vercel.app/api/top-langs/?username=always0ne&layout=compact&hide=html&langs_count=6" alt="always0ne" width="41%" />
    <img src="https://github-readme-stats.vercel.app/api?username=always0ne&show_icons=true" alt="always0ne"  width="58%"/>
   </p>
 </div>
