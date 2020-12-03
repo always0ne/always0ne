@@ -3,7 +3,7 @@
   <a href="https://always0ne.github.io">
     <img align="right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;" alt="Tech Blog Badge">
   </a>
-  <a href="mailto:si8363@soongsil.ac.kr">  
+  <a href="mailto:always0ne.dev@gmail.com">  
     <img align="right" src="http://img.shields.io/badge/-contact-9cf?style=social&amp;logo=Minutemailer&amp" alt="Contact Email">
   </a>
 </h1>
