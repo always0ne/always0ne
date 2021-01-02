@@ -1,6 +1,6 @@
 <div>
   <h1>Hi there 👋  I'm Always0ne<img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
-  <a href="https://always0ne.github.io">
+  <a href="https://velog.io/@always0ne">
     <img align="right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;" alt="Tech Blog Badge">
   </a>
   <a href="mailto:always0ne.dev@gmail.com">  
@@ -24,9 +24,10 @@
 - Setting CI/CD(Jenkins/Github Actions)
 - Network Engineering
 - Project Management
-
+### I have a blog Too!!!
+- [always0ne.log](https://velog.io/@always0ne)
 ### To get more Information about me
-- [Introduce Page](https://always0ne.github.io/whoAmI/)
+- [Introduce Page](https://velog.io/@always0ne/about)
 
 <!--
 **always0ne/always0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
