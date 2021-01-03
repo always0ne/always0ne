@@ -1,6 +1,6 @@
 <div>
   <h1>Hi there 👋  I'm Always0ne<img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
-  <a href="https://velog.io/@always0ne">
+  <a href="https://alwaysone.tistory.com/">
     <img align="right" src="http://img.shields.io/badge/-Devlog-black?style=flat-square&amp;logo=github&amp;" alt="Tech Blog Badge">
   </a>
   <a href="mailto:always0ne.dev@gmail.com">  
@@ -25,7 +25,7 @@
 - Network Engineering
 - Project Management
 ### I have a blog Too!!!
-- [always0ne.log](https://velog.io/@always0ne)
+- [always0ne.log](https://alwaysone.tistory.com/)
 ### To get more Information about me
 - [Introduce Page](https://velog.io/@always0ne/about)
 
