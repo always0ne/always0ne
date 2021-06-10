@@ -1,3 +1,12 @@
+!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENKMYBJVNF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ENKMYBJVNF');
+</script>
 <div>
   <h1>Hi there 👋  I'm Always0ne<img align="right"src="https://komarev.com/ghpvc/?username=always0ne" alt="always0ne" />
   <a href="https://alwaysone.tistory.com/">
