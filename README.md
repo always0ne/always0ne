@@ -27,7 +27,7 @@
 ### I have a blog Too!!!
 - [always0ne.log](https://alwaysone.tistory.com/)
 ### To get more Information about me
-- [Introduce Page](https://velog.io/@always0ne/about)
+- [Portfolio](https://river-sodium-c9e.notion.site/Backend-Developer-5befee22171b45569833f304f6fecf1b)
 
 <!--
 **always0ne/always0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
